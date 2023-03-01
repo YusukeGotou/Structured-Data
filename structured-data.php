@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name:Structured Data
-Plugin URI: https://gotoyusuke.com/
+Plugin URI: https://github.com/YusukeGotou/Structured-Data
 Description: 構造化データを追加できるシンプルなプラグインです。
 Version: 1.0
 Author: Yusuke Goto
